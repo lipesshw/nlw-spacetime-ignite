@@ -1,35 +1,10 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
+<p>
+  <img src="https://media.discordapp.net/attachments/1057059975383486506/1109334415030628432/image.png" alt="demonstração do projeto" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
-
-## 💻 Projeto
-
+## 🖥️ Projeto 
 Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
+## 🏷️ Layout
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/sy3zC9MdRPs3Vx5xlqmhXD/Cápsula-do-tempo-•-Trilha-Ignite-(Community)?type=design&node-id=205-85&t=q3tZqG2Rd5XPvbBN-0). 
+É necessário ter uma conta no [Figma](https://www.figma.com/).
